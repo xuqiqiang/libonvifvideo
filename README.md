@@ -1,0 +1,2 @@
+# libonvifvideo
+Android平台onvif设备视频录制框架
