@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <Button
+        android:id="@+id/init"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="init"/>
+
+    <Button
+        android:id="@+id/release"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="release"/>
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="add"/>
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="delete"/>
+    <Button
+        android:id="@+id/send"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="send"/>
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="stop"/>
+    <Button
+        android:id="@+id/setVideoInfo"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="setVideoInfo"/>
+</LinearLayout>
